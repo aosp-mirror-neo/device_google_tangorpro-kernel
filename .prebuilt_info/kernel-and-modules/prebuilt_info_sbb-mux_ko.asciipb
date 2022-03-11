@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "8277285"
+    target: "tangorpro"
+    source_file: "sbb-mux.ko"
+  }
+  dest_file: "sbb-mux.ko"
+  version: "Linux version 5.10.103-android13-0-00001-g320ffbea7711-ab8277285 (build-user@build-host) (Android (8225204, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Mon Mar 7 21:06:37 UTC 2022"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/tangorpro-kernel"
+}
