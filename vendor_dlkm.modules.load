@@ -19,7 +19,6 @@ kernel/drivers/usb/typec/tcpm/google/usbc_cooling_dev.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
 kernel/drivers/thermal/samsung/gpu_cooling.ko
-kernel/drivers/watchdog/softdog.ko
 kernel/drivers/perf/arm_dsu_pmu.ko
 extra/bigocean.ko
 extra/btpower.ko
