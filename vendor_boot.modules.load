@@ -116,9 +116,12 @@ kernel/drivers/thermal/samsung/gs_thermal.ko
 kernel/drivers/thermal/google/google_bcl.ko
 kernel/drivers/thermal/google/s2mpg13_spmic_thermal.ko
 kernel/drivers/watchdog/s3c2410_wdt.ko
+kernel/drivers/watchdog/softdog.ko
 kernel/drivers/cpufreq/exynos-acme.ko
 kernel/drivers/clocksource/exynos_mct.ko
 kernel/drivers/devfreq/google/exynos_devfreq.ko
+kernel/drivers/devfreq/google/arm-memlat-mon.ko
+kernel/drivers/devfreq/google/governor_memlat.ko
 kernel/drivers/devfreq/google/memlat-devfreq.ko
 kernel/drivers/iio/power/odpm.ko
 kernel/drivers/trusty/trusty-core.ko
