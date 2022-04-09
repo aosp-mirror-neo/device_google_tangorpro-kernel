@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8341878"
+    build_id: "8423040"
     target: "tangorpro"
     source_file: "wlan.ko"
   }
   dest_file: "wlan.ko"
-  version: "Linux version 5.10.107-android13-1-00361-gf1e8564c5530-ab8332003 (build-user@build-host) (Android (8225204, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Mon Mar 21 15:30:13 UTC 2022"
+  version: "Linux version 5.10.107-android13-2-00456-g34469ce1b40a-ab8412241 (build-user@build-host) (Android (8347023, based on r450784) clang version 14.0.3 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.3) #1 SMP PREEMPT Wed Apr 6 10:11:42 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
