@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8480183"
+    build_id: "8500529"
     target: "tangorpro"
     source_file: "i2c-dev.ko"
   }
