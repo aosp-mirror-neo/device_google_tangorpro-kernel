@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8510911"
+    build_id: "8516375"
     target: "tangorpro"
     source_file: "panel-samsung-s6e3hc3-c10.ko"
   }
