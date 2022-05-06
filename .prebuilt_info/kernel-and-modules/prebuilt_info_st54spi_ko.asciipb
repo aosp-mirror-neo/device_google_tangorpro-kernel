@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8516375"
+    build_id: "8543486"
     target: "tangorpro"
     source_file: "st54spi.ko"
   }
   dest_file: "st54spi.ko"
-  version: "Linux version 5.10.107-android13-4-00192-ga50ef731e098-ab8500518 (build-user@build-host) (Android (8395375, based on r450784b) clang version 14.0.4 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.4) #1 SMP PREEMPT Mon Apr 25 09:04:21 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00206-g4dce9d7a65b1-ab8534322 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue May 3 09:14:34 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
