@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8580102"
+    build_id: "8596323"
     target: "tangorpro"
     source_file: "bcm47765.ko"
   }
