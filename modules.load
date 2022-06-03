@@ -96,6 +96,7 @@ kernel/drivers/spi/spidev.ko
 kernel/drivers/spi/spi-s3c64xx.ko
 kernel/drivers/usb/dwc3/dwc3-exynos-usb.ko
 kernel/drivers/usb/host/xhci-exynos.ko
+kernel/drivers/usb/gadget/function/usb_f_rndis.ko
 kernel/drivers/usb/gadget/function/usb_f_dm.ko
 kernel/drivers/usb/gadget/function/usb_f_dm1.ko
 kernel/drivers/usb/typec/tcpm/google/usb_psy.ko
