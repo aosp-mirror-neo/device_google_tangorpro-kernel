@@ -55,11 +55,6 @@ kernel/drivers/soc/google/pt/slc_pmon.ko
 kernel/drivers/soc/google/gsa/gsa.ko
 kernel/drivers/soc/google/gsa/gsa_gsc.ko
 kernel/drivers/soc/google/exynos-bcm_dbg-dump.ko
-kernel/drivers/soc/google/cpif/shm_ipc.ko
-kernel/drivers/soc/google/cpif/boot_device_spi.ko
-kernel/drivers/soc/google/cpif/cpif_page.ko
-kernel/drivers/soc/google/cpif/cpif.ko
-kernel/drivers/soc/google/cpif/cp_thermal_zone.ko
 kernel/drivers/soc/google/eh/eh.ko
 kernel/drivers/soc/google/hardlockup-debug.ko
 kernel/drivers/soc/google/hardlockup-watchdog.ko
