@@ -7,6 +7,7 @@ kernel/drivers/phy/samsung/phy-exynos-mipi.ko
 kernel/drivers/pinctrl/samsung/pinctrl-samsung-core.ko
 kernel/drivers/pci/controller/dwc/pcie-exynos-core.ko
 kernel/drivers/pci/controller/dwc/pcie-exynos-gs201-rc-cal.ko
+kernel/drivers/video/backlight/lp855x_bl.ko
 kernel/drivers/clk/samsung/clk_exynos.ko
 kernel/drivers/dma/pl330.ko
 kernel/drivers/dma/samsung-dma.ko
