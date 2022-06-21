@@ -33,7 +33,6 @@ extra/btpower.ko
 extra/cl_dsp.ko
 extra/drv2624.ko
 extra/goog_touch_interface.ko
-extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
 extra/input-cs40l26-i2c.ko
 extra/lwis.ko
