@@ -147,6 +147,7 @@ extra/google-battery.ko
 extra/google-bms.ko
 extra/google-charger.ko
 extra/google-cpm.ko
+extra/google_dock.ko
 extra/heatmap.ko
 extra/janeiro.ko
 extra/mailbox-wc.ko
