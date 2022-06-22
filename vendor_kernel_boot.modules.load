@@ -159,6 +159,7 @@ extra/max77759_charger.ko
 extra/net/mcps802154/mcps802154.ko
 extra/net/mcps802154/mcps802154_region_fira.ko
 extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
+extra/nitrous.ko
 extra/p9221.ko
 extra/panel-boe-ts110f5mlg0.ko
 extra/panel-csot-ppa957db2d.ko
