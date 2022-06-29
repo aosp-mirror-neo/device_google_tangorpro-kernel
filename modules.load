@@ -168,6 +168,7 @@ extra/panel-csot-ppa957db2d.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/pca9468.ko
+extra/pogo_transport.ko
 extra/rt4539_bl.ko
 extra/snd-soc-cs35l41-spi.ko
 extra/snd-soc-cs35l41.ko
