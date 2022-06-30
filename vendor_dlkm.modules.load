@@ -29,6 +29,7 @@ kernel/drivers/hwtracing/coresight/coresight-funnel.ko
 kernel/drivers/hwtracing/coresight/coresight-replicator.ko
 kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
 extra/bigocean.ko
+extra/fpc1020_platform_tee.ko
 extra/goog_touch_interface.ko
 extra/google_dual_batt_gauge.ko
 extra/lwis.ko
