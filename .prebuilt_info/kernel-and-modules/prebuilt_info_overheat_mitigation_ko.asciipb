@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8852778"
+    build_id: "8859546"
     target: "tangorpro"
     source_file: "overheat_mitigation.ko"
   }
   dest_file: "overheat_mitigation.ko"
-  version: "Linux version 5.10.107-android13-4-688052-g1df93e363e61-ab8852778 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Jul 19 09:22:04 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688052-g1df93e363e61-ab8859546 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Jul 19 09:22:04 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
