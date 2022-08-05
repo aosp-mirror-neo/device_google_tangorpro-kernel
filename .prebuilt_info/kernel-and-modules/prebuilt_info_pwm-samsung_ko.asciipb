@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8884631"
+    build_id: "8905084"
     target: "tangorpro"
     source_file: "pwm-samsung.ko"
   }
   dest_file: "pwm-samsung.ko"
-  version: "Linux version 5.10.107-android13-4-688062-gfccbf997eff6-ab8884631 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Jul 27 03:11:50 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688069-g9468a0cd1e11-ab8905084 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Aug 3 01:00:58 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
