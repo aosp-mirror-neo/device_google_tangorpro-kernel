@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8995875"
+    build_id: "9004550"
     target: "tangorpro_kasan"
     source_file: "exynos_devfreq.ko"
   }
   dest_file: "kasan/exynos_devfreq.ko"
-  version: "Linux version 5.10.107-android13-4-688096-g6db56d0375ad-ab8995875 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Aug 24 01:37:07 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688096-g6db56d0375ad-ab9004550 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Aug 24 01:37:07 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
