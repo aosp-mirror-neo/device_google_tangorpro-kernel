@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9055716"
+    build_id: "9072104"
     target: "tangorpro_debug_kmemleak"
     source_file: "st21nfc.ko"
   }
   dest_file: "debug_kmemleak/st21nfc.ko"
-  version: "Linux version 5.10.107-android13-4-688125-g56376c183369-ab9055716 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Sep 12 04:04:40 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688125-g56376c183369-ab9072104 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Sep 12 04:04:40 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
