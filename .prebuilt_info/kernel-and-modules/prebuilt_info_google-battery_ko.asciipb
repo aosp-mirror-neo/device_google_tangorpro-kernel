@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9048840"
+    build_id: "9079556"
     target: "tangorpro"
     source_file: "google-battery.ko"
   }
   dest_file: "google-battery.ko"
-  version: "Linux version 5.10.107-android13-4-688121-g995b64f96915-ab9048840 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu Sep 8 03:51:50 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00054-gf68d040c318f-ab9076905 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Sep 16 14:01:24 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
