@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9185496"
+    build_id: "9204547"
     target: "tangorpro_debug_memory"
     source_file: "panel-samsung-sofef01.ko"
   }
