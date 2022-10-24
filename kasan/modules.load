@@ -82,7 +82,6 @@ kernel/drivers/misc/logbuffer.ko
 kernel/drivers/misc/gvotable.ko
 kernel/drivers/misc/sscoredump/sscoredump.ko
 kernel/drivers/misc/bbdpl/bcm47765.ko
-kernel/drivers/mfd/s2mpg1x-gpio.ko
 kernel/drivers/mfd/s2mpg12-mfd.ko
 kernel/drivers/mfd/s2mpg13-mfd.ko
 kernel/drivers/dma-buf/heaps/samsung/samsung_dma_heap.ko
