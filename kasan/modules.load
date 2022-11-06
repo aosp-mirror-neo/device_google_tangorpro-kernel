@@ -63,6 +63,7 @@ kernel/drivers/soc/google/sysrq-hook.ko
 kernel/drivers/soc/google/dbgcore-dump.ko
 kernel/drivers/soc/google/exynos-seclog.ko
 kernel/drivers/soc/google/pkvm-s2mpu.ko
+kernel/drivers/soc/google/kernel-top.ko
 kernel/drivers/regulator/pmic_class.ko
 kernel/drivers/regulator/s2mpg12-regulator.ko
 kernel/drivers/regulator/s2mpg12-powermeter.ko
