@@ -33,6 +33,7 @@ extra/bigocean.ko
 extra/fpc1020_platform_tee.ko
 extra/goog_touch_interface.ko
 extra/google_dual_batt_gauge.ko
+extra/gxp.ko
 extra/lwis.ko
 extra/mali_kbase.ko
 extra/mali_pixel.ko
