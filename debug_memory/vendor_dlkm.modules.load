@@ -5,7 +5,6 @@ kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/pinctrl/pinctrl-slg51002.ko
 kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
-kernel/drivers/soc/google/vh/kernel/metrics.ko
 kernel/drivers/soc/google/bcm_dbg.ko
 kernel/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
