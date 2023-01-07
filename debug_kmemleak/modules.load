@@ -65,11 +65,13 @@ kernel/drivers/soc/google/dbgcore-dump.ko
 kernel/drivers/soc/google/exynos-seclog.ko
 kernel/drivers/soc/google/pkvm-s2mpu.ko
 kernel/drivers/soc/google/kernel-top.ko
+kernel/drivers/regulator/rt4801-regulator.ko
 kernel/drivers/regulator/pmic_class.ko
 kernel/drivers/regulator/s2mpg12-regulator.ko
 kernel/drivers/regulator/s2mpg12-powermeter.ko
 kernel/drivers/regulator/s2mpg13-regulator.ko
 kernel/drivers/regulator/s2mpg13-powermeter.ko
+kernel/drivers/regulator/tps65132-regulator.ko
 kernel/drivers/tty/serial/exynos_tty.ko
 kernel/drivers/iommu/samsung_iommu.ko
 kernel/drivers/iommu/samsung-iommu-group.ko
