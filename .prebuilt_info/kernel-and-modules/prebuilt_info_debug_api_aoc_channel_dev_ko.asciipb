@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9608239"
+    build_id: "9630750"
     target: "tangorpro_debug_api"
     source_file: "aoc_channel_dev.ko"
   }
   dest_file: "debug_api/aoc_channel_dev.ko"
-  version: "Linux version 5.10.149-android13-4-00004-gac244baf446f-ab9555298 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu Feb 2 12:52:26 UTC 2023"
+  version: "Linux version 5.10.149-android13-4-00002-gca169caca7bb-ab9598324 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Feb 13 12:48:28 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
