@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9630372"
+    build_id: "9715056"
     target: "tangorpro_debug_kmemleak"
     source_file: "ufs-exynos-core.ko"
   }
   dest_file: "debug_kmemleak/ufs-exynos-core.ko"
-  version: "Linux version 5.10.149-android13-4-00071-g5eae3a583306-ab9533439 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Jan 27 08:34:38 UTC 2023"
+  version: "Linux version 5.10.149-android13-4-693021-g2f0d2b7f95c6-ab9715056 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Feb 6 16:35:46 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
