@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9912339"
+    build_id: "9990464"
     target: "tangorpro_kasan"
     source_file: "google-charger.ko"
   }
