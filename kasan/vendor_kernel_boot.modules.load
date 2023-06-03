@@ -17,6 +17,7 @@ kernel/drivers/soc/google/debug/debug-snapshot-debug-kinfo.ko
 kernel/drivers/soc/google/debug/ehld.ko
 kernel/drivers/soc/google/debug/exynos-debug-test.ko
 kernel/drivers/soc/google/debug/pixel-debug-test.ko
+kernel/drivers/soc/google/debug/pixel-suspend-diag.ko
 kernel/drivers/soc/google/debug/itmon.ko
 kernel/drivers/soc/google/debug/exynos-coresight.ko
 kernel/drivers/soc/google/debug/exynos-ecc-handler.ko
@@ -25,6 +26,7 @@ kernel/drivers/soc/google/debug/exynos-adv-tracer.ko
 kernel/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 kernel/drivers/soc/google/debug/pixel-boot-metrics.ko
 kernel/drivers/soc/google/debug/sjtag-driver.ko
+kernel/drivers/soc/google/debug/etm2dram.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 kernel/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
@@ -128,7 +130,6 @@ kernel/drivers/devfreq/google/governor_memlat.ko
 kernel/drivers/devfreq/google/memlat-devfreq.ko
 kernel/drivers/iio/power/odpm.ko
 kernel/drivers/trusty/trusty-core.ko
-kernel/drivers/trusty/trusty-irq.ko
 kernel/drivers/trusty/trusty-log.ko
 kernel/drivers/trusty/trusty-test.ko
 kernel/drivers/trusty/trusty-virtio.ko
