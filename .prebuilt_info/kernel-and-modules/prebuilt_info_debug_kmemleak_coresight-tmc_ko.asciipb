@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10707472"
+    build_id: "10637718"
     target: "tangorpro_debug_kmemleak"
     source_file: "coresight-tmc.ko"
   }
   dest_file: "debug_kmemleak/coresight-tmc.ko"
-  version: "Linux version 5.10.177-android13-4-697103-g19908f16bc6e-ab10707472 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Aug 22 01:35:15 UTC 2023"
+  version: "Linux version 5.10.157-android13-4-694373-g53efd14b83ef-ab10637718 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Jul 21 17:20:43 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
