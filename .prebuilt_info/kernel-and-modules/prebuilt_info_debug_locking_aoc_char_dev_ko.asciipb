@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10757824"
+    build_id: "10768194"
     target: "tangorpro_debug_locking"
     source_file: "aoc_char_dev.ko"
   }
