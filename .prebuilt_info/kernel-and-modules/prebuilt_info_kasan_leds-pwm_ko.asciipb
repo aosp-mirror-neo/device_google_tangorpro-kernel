@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10734531"
+    build_id: "10764804"
     target: "tangorpro_kasan"
     source_file: "leds-pwm.ko"
   }
   dest_file: "kasan/leds-pwm.ko"
-  version: "Linux version 5.10.157-android13-4-00001-g9fa316f68107-ab10685106 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Sat Aug 19 00:01:13 UTC 2023"
+  version: "Linux version 5.10.157-android13-4-00001-gcdb564cd631b-ab10726765 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Aug 28 06:29:26 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
