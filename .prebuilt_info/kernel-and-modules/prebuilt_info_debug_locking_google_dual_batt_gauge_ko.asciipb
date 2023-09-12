@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10768194"
+    build_id: "10797148"
     target: "tangorpro_debug_locking"
     source_file: "google_dual_batt_gauge.ko"
   }
