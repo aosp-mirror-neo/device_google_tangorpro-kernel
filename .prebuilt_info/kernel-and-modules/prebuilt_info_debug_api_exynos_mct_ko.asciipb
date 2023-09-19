@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10768194"
+    build_id: "10816487"
     target: "tangorpro_debug_api"
     source_file: "exynos_mct.ko"
   }
   dest_file: "debug_api/exynos_mct.ko"
-  version: "Linux version 5.10.177-android13-4-00003-gacbc9bacfebc-ab10753192 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Sep 1 22:53:59 UTC 2023"
+  version: "Linux version 5.10.177-android13-4-00002-g26f26d83ca36-ab10793907 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Sep 11 17:02:48 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
