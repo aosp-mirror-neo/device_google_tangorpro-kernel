@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10816491"
+    build_id: "10824624"
     target: "tangorpro_kasan"
     source_file: "vh_cgroup.ko"
   }
