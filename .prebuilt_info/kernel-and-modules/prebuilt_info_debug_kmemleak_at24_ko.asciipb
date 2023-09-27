@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10647788"
+    build_id: "10639820"
     target: "tangorpro_debug_kmemleak"
     source_file: "at24.ko"
   }
