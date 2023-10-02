@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10845256"
+    build_id: "10882699"
     target: "tangorpro_debug_memory"
     source_file: "rt4539_bl.ko"
   }
