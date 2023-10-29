@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10801813"
+    build_id: "11005983"
     target: "tangorpro_debug_api"
     source_file: "panel-samsung-s6e3hc2.ko"
   }
   dest_file: "debug_api/panel-samsung-s6e3hc2.ko"
-  version: "Linux version 5.10.157-android13-4-00001-gcdb564cd631b-ab10726765 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Aug 28 06:29:26 UTC 2023"
+  version: "11005983"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
