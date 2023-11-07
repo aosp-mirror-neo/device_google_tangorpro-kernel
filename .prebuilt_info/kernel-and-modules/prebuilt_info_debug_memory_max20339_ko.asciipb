@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10994173"
+    build_id: "11061637"
     target: "tangorpro_debug_memory"
     source_file: "max20339.ko"
   }
   dest_file: "debug_memory/max20339.ko"
-  version: "10994173"
+  version: "11061637"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
