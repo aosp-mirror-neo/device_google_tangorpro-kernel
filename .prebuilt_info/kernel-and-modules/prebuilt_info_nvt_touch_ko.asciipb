@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11217892"
+    build_id: "11237216"
     target: "tangorpro"
     source_file: "nvt_touch.ko"
   }
   dest_file: "nvt_touch.ko"
-  version: "11217892"
+  version: "11237216"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
