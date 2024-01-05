@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11217892"
+    build_id: "11271869"
     target: "tangorpro_debug_kmemleak"
     source_file: "panel-samsung-emul.ko"
   }
   dest_file: "debug_kmemleak/panel-samsung-emul.ko"
-  version: "11217892"
+  version: "11271869"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
