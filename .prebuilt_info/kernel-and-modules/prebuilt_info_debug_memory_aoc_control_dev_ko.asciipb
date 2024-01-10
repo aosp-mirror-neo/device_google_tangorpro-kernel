@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11272709"
+    build_id: "11294604"
     target: "tangorpro_debug_memory"
     source_file: "aoc_control_dev.ko"
   }
   dest_file: "debug_memory/aoc_control_dev.ko"
-  version: "11272709"
+  version: "11294604"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
