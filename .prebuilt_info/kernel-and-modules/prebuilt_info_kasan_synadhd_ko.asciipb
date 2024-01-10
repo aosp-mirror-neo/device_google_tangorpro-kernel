@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11271869"
+    build_id: "11272709"
     target: "tangorpro_kasan"
     source_file: "synadhd.ko"
   }
   dest_file: "kasan/synadhd.ko"
-  version: "11271869"
+  version: "11272709"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
