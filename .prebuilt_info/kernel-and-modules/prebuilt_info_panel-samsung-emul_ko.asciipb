@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11272709"
+    build_id: "11294604"
     target: "tangorpro"
     source_file: "panel-samsung-emul.ko"
   }
   dest_file: "panel-samsung-emul.ko"
-  version: "11272709"
+  version: "11294604"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
