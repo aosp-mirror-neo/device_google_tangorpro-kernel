@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11237216"
+    build_id: "11293702"
     target: "tangorpro_debug_api"
     source_file: "pkvm-s2mpu.ko"
   }
   dest_file: "debug_api/pkvm-s2mpu.ko"
-  version: "11237216"
+  version: "11293702"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
