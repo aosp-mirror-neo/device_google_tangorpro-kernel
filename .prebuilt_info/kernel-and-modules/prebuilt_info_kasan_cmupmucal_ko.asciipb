@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11347974"
     target: "tangorpro_kasan"
     source_file: "cmupmucal.ko"
   }
   dest_file: "kasan/cmupmucal.ko"
-  version: "11294604"
+  version: "11347974"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
