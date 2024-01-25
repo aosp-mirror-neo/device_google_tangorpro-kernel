@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11347974"
     target: "tangorpro_debug_locking"
     source_file: "i2c-dev.ko"
   }
   dest_file: "debug_locking/i2c-dev.ko"
-  version: "11294604"
+  version: "11347974"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11347974"
     target: "tangorpro"
     source_file: "mcps802154_region_fira.ko"
   }
   dest_file: "mcps802154_region_fira.ko"
-  version: "11294604"
+  version: "11347974"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
