@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11347974"
+    build_id: "11415368"
     target: "tangorpro_debug_kmemleak"
     source_file: "gs201-b0_v2-ipop.dtb"
   }
   dest_file: "debug_kmemleak/gs201-b0_v2-ipop.dtb"
-  version: "11347974"
+  version: "11415368"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

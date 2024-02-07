@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11347974"
+    build_id: "11415368"
     target: "tangorpro_kasan"
     source_file: "s2mpg13-regulator.ko"
   }
   dest_file: "kasan/s2mpg13-regulator.ko"
-  version: "11347974"
+  version: "11415368"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
