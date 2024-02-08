@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11347974"
+    build_id: "11415368"
     target: "tangorpro_debug_memory"
     source_file: "mali_kutf_clk_rate_trace_test_portal.ko"
   }
   dest_file: "debug_memory/mali_kutf_clk_rate_trace_test_portal.ko"
-  version: "11347974"
+  version: "11415368"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

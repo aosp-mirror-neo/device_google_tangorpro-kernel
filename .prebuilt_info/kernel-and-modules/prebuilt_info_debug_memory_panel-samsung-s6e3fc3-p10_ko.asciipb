@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11347974"
+    build_id: "11415368"
     target: "tangorpro_debug_memory"
     source_file: "panel-samsung-s6e3fc3-p10.ko"
   }
   dest_file: "debug_memory/panel-samsung-s6e3fc3-p10.ko"
-  version: "11347974"
+  version: "11415368"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

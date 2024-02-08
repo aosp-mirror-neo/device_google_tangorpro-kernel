@@ -34,7 +34,6 @@ kernel/drivers/soc/google/vh/kernel/systrace.ko
 kernel/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
 kernel/drivers/soc/google/vh/kernel/fs/vh_fs.ko
 kernel/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
-kernel/drivers/soc/google/vh/kernel/i2c/vh_i2c.ko
 kernel/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 kernel/drivers/soc/google/gs-chipid.ko
 kernel/drivers/soc/google/cal-if/cmupmucal.ko
