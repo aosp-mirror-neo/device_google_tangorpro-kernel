@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11503673"
+    build_id: "11522419"
     target: "tangorpro"
     source_file: "usbc_cooling_dev.ko"
   }
   dest_file: "usbc_cooling_dev.ko"
-  version: "11503673"
+  version: "11522419"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

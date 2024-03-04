@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11503673"
+    build_id: "11522419"
     target: "tangorpro_debug_locking"
     source_file: "vh_thermal.ko"
   }
   dest_file: "debug_locking/vh_thermal.ko"
-  version: "11503673"
+  version: "11522419"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

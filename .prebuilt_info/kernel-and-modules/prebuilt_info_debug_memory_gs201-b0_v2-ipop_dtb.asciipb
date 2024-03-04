@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11503673"
+    build_id: "11522419"
     target: "tangorpro_debug_memory"
     source_file: "gs201-b0_v2-ipop.dtb"
   }
   dest_file: "debug_memory/gs201-b0_v2-ipop.dtb"
-  version: "11503673"
+  version: "11522419"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
