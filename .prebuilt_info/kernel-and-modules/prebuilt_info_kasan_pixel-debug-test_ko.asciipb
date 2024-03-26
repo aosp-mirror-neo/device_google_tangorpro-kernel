@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11595642"
+    build_id: "11624712"
     target: "tangorpro_kasan"
     source_file: "pixel-debug-test.ko"
   }
   dest_file: "kasan/pixel-debug-test.ko"
-  version: "11595642"
+  version: "11624712"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
