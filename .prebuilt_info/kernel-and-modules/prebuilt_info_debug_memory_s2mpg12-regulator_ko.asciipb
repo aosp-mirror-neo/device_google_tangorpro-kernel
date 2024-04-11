@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11624712"
+    build_id: "11699125"
     target: "tangorpro_debug_memory"
     source_file: "s2mpg12-regulator.ko"
   }
   dest_file: "debug_memory/s2mpg12-regulator.ko"
-  version: "11624712"
+  version: "11699125"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
