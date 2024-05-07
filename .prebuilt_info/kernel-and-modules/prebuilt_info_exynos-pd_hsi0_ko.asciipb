@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11217892"
+    build_id: "11522419"
     target: "tangorpro"
-    source_file: "vh_i2c.ko"
+    source_file: "exynos-pd_hsi0.ko"
   }
-  dest_file: "vh_i2c.ko"
-  version: "11217892"
+  dest_file: "exynos-pd_hsi0.ko"
+  version: "11522419"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
