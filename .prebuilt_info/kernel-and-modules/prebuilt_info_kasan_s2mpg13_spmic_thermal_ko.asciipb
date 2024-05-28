@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11522419"
+    build_id: "11699125"
     target: "tangorpro_kasan"
     source_file: "s2mpg13_spmic_thermal.ko"
   }
   dest_file: "kasan/s2mpg13_spmic_thermal.ko"
-  version: "11522419"
+  version: "11699125"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
