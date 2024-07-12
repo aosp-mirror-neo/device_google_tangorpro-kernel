@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11933103"
+    build_id: "12076201"
     target: "tangorpro_debug_locking"
     source_file: "max77729-pmic.ko"
   }
   dest_file: "debug_locking/max77729-pmic.ko"
-  version: "11933103"
+  version: "12076201"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

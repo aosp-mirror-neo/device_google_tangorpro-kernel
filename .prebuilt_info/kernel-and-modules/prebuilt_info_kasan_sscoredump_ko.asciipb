@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11933103"
+    build_id: "12076201"
     target: "tangorpro_kasan"
     source_file: "sscoredump.ko"
   }
   dest_file: "kasan/sscoredump.ko"
-  version: "11933103"
+  version: "12076201"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }

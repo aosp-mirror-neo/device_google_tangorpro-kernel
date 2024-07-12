@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11933103"
+    build_id: "12076201"
     target: "tangorpro_debug_api"
     source_file: "exynos-coresight-etm.ko"
   }
   dest_file: "debug_api/exynos-coresight-etm.ko"
-  version: "11933103"
+  version: "12076201"
   version_group: "kernel-and-modules"
   git_project: "device/google/tangorpro-kernel"
 }
